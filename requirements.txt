@@ -1,0 +1,19 @@
+# Core JAX & TPU Backend
+jax==0.4.35
+jaxlib==0.4.35
+flax==0.10.2
+
+# Model Frameworks
+google-tunix[prod]
+transformers>=4.45.0
+datasets
+sentencepiece
+
+# State Management & Checkpointing
+orbax-checkpoint==0.6.4
+chex
+optax
+
+# Utilities
+numpy<2.0.0
+pprintpp
