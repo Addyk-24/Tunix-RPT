@@ -67,7 +67,6 @@ JAX cannot trace Python strings. Residual metadata in datasets often causes `_st
 <i>Model Configs</i>
 </p>
 <br/>
-
 ---
 
 ## 📊 Data Strategy
@@ -78,8 +77,8 @@ We utilized **Stratified Post-Training**, rebalancing the model across six criti
 4.  **Creative:** Instruction following.
 5.  **Summarization:** Contextual logic.
 6.  **General:** General-knowledge reasoning.
-
 ---
+
 ## 👩‍💻 Author
 Aditya Katkar </br>
 [GitHub](https://github.com/Addyk-24) </br>
